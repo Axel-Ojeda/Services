@@ -1,3 +1,3 @@
 # Services, APIs y library
-**Ejemplo simple de como se puede ver documentacion en GitHub** 
+**AVISO: no es un ejemplo realista de como funciona generalmente la documentacion solo existe para usos educativos** 
 
